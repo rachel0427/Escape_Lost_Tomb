@@ -1,7 +1,7 @@
 # Escape Lost Tomb
 **Group Members: Ruoqi(Rachel) Yang, Shannon Yan, Jennifer Jiang, Brandon Groothuis, David Tamburri, and Xinyu Niu**
 
-**Demo Video:** https://drive.google.com/file/d/1iM5DFeWOcaxE45ISmHja7EQND7xWCYdn/view?usp=sharing
+**Demo video:** https://drive.google.com/file/d/1iM5DFeWOcaxE45ISmHja7EQND7xWCYdn/view?usp=sharing
 
 **Link to original repository:** https://github.com/Vanderbilt-VR-2021-Projects/EscapeLostTomb
 
