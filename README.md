@@ -1,6 +1,10 @@
 # Escape Lost Tomb
 **Group Members: Ruoqi(Rachel) Yang, Shannon Yan, Jennifer Jiang, Brandon Groothuis, David Tamburri, and Xinyu Niu**
 
+**Demo Video:** https://drive.google.com/file/d/1iM5DFeWOcaxE45ISmHja7EQND7xWCYdn/view?usp=sharing
+
+**Link to original repository:** https://github.com/Vanderbilt-VR-2021-Projects/EscapeLostTomb
+
 ## Introduction
 Our game is an immersive, escape room experience that takes place in the tombs alongside Terra Cotta sculptures. Users will begin in a dimly lit room where they will pick up a candle, walk around the room, and will solve various challenges to help them escape. 
 
@@ -10,7 +14,7 @@ The game was developed in Unity 3D and runs on Oculus Quest 2. It includes 4 roo
 **You need the Oculus Quest 2 headset to play this game**
 1. Download Oculus Developer Hub (https://developer.oculus.com/downloads/package/oculus-developer-hub-win/)
 2. Connect your headset
-3. Download the `light_OFF.apk` file and drag it into Oculus Developer Hub
+3. Download the `light_OFF.apk` file (https://drive.google.com/file/d/1LuH-da_Wsf_k-Z0nvJh4NNjXGI9nCq2o/view?usp=sharing) and drag it into Oculus Developer Hub
 
 ## About the Puzzles (Spoilers Alert)
 ### Room 1
