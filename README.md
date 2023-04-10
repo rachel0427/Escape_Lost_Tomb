@@ -5,7 +5,7 @@
 
 **Link to original repository:** https://github.com/Vanderbilt-VR-2021-Projects/EscapeLostTomb
 
-**Download original repository here: **https://drive.google.com/file/d/1lnBZ1Y0tgoQhY2rhOuJL1WjCMEuGVebA/view?usp=sharing
+Download original repository here: https://drive.google.com/file/d/1lnBZ1Y0tgoQhY2rhOuJL1WjCMEuGVebA/view?usp=sharing
 
 ## Introduction
 Our game is an immersive, escape room experience that takes place in the tombs alongside Terra Cotta sculptures. Users will begin in a dimly lit room where they will pick up a candle, walk around the room, and will solve various challenges to help them escape. 
